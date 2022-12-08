@@ -19,5 +19,8 @@
     "url": "https://github.com/siemenjm/typescript-wds-todo/issues"
   },
   "homepage": "https://github.com/siemenjm/typescript-wds-todo#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
 }
