@@ -12,7 +12,7 @@ form?.addEventListener("submit", e => {
     }
 
     const task = {
-        id: uuidV4,
+        id: uuidV4(),
         title: input.value,
         completed: false,
         createdAt: new Date()
